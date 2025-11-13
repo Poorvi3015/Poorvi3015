@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Poorvi Tripathi
-- I am currently pursuing computer science engineering with specialisation in cyber security, block chain and Internet of things
+- I am currently pursuing computer science engineering with specialisation in cyber security, block chain tech and Internet of things
 - I have knowledge about Python and have completed 2 projects in same
+- I am currently learning web dev , Java
+- I have completed C language
 - Linkedln profile link-https://www.linkedin.com/in/poorvi-tripathi-078301289
